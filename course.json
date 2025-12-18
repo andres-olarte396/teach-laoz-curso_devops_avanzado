@@ -1,0 +1,269 @@
+{
+  "id": "devops-engineer-advanced",
+  "title": "Arquitectura Curricular: DevOps Engineer (Advanced)",
+  "description": "Curso completo de DevOps avanzado: Ciclo de vida SDLC, infraestructura inmutable, SRE y DevSecOps.",
+  "modules": [
+    {
+      "modulo_id": 1,
+      "titulo": "Introducción a DevOps",
+      "temas": [
+        {
+          "tema_id": "1.1",
+          "titulo": "Fundamentos del Movimiento",
+          "subtemas": [
+            { "subtema_id": "1.1.1", "titulo": "Historia y The Wall of Confusion" },
+            { "subtema_id": "1.1.2", "titulo": "Principios CALMS y Lean" }
+          ]
+        },
+        {
+          "tema_id": "1.2",
+          "titulo": "Roles y Realidad",
+          "subtemas": [
+            { "subtema_id": "1.2.1", "titulo": "Roles y Responsabilidades" },
+            { "subtema_id": "1.2.2", "titulo": "Anti-patrones comunes" }
+          ]
+        }
+      ]
+    },
+    {
+      "modulo_id": 2,
+      "titulo": "Control de Versiones Avanzado",
+      "temas": [
+        {
+          "tema_id": "2.1",
+          "titulo": "Estrategias de Ramificación",
+          "subtemas": [
+            { "subtema_id": "2.1.1", "titulo": "GitFlow vs Trunk-Based" },
+            { "subtema_id": "2.1.2", "titulo": "Monorepos vs Polyrepos" }
+          ]
+        },
+        {
+          "tema_id": "2.2",
+          "titulo": "Automatización en Git",
+          "subtemas": [
+            { "subtema_id": "2.2.1", "titulo": "Git Hooks" },
+            { "subtema_id": "2.2.2", "titulo": "Políticas de Pull Request" }
+          ]
+        }
+      ]
+    },
+    {
+      "modulo_id": 3,
+      "titulo": "CI/CD Fundamentos",
+      "temas": [
+        {
+          "tema_id": "3.1",
+          "titulo": "Integración Continua (CI)",
+          "subtemas": [
+            { "subtema_id": "3.1.1", "titulo": "Pipelines Declarativos" },
+            { "subtema_id": "3.1.2", "titulo": "Análisis Estático y Linters" }
+          ]
+        },
+        {
+          "tema_id": "3.2",
+          "titulo": "Entrega Continua (CD)",
+          "subtemas": [
+            { "subtema_id": "3.2.1", "titulo": "Artefactos Reproducibles" },
+            { "subtema_id": "3.2.2", "titulo": "Estrategias de Versionado" }
+          ]
+        }
+      ]
+    },
+    {
+      "modulo_id": 4,
+      "titulo": "Infraestructura como Código (IaC)",
+      "temas": [
+        {
+          "tema_id": "4.1",
+          "titulo": "Fundamentos de IaC",
+          "subtemas": [
+            { "subtema_id": "4.1.1", "titulo": "Terraform vs Pulumi" },
+            { "subtema_id": "4.1.2", "titulo": "Gestión del Estado" }
+          ]
+        },
+        {
+          "tema_id": "4.2",
+          "titulo": "Modularidad y Entornos",
+          "subtemas": [
+            { "subtema_id": "4.2.1", "titulo": "Módulos Reutilizables" },
+            { "subtema_id": "4.2.2", "titulo": "Gestión de Entornos" }
+          ]
+        }
+      ]
+    },
+    {
+      "modulo_id": 5,
+      "titulo": "Configuración y Automatización",
+      "temas": [
+        {
+          "tema_id": "5.1",
+          "titulo": "Gestión de Configuración",
+          "subtemas": [
+            { "subtema_id": "5.1.1", "titulo": "Ansible: Inventarios y Playbooks" },
+            { "subtema_id": "5.1.2", "titulo": "Idempotencia" }
+          ]
+        },
+        {
+          "tema_id": "5.2",
+          "titulo": "Drift y Remediación",
+          "subtemas": [
+            { "subtema_id": "5.2.1", "titulo": "Detección de Configuration Drift" },
+            { "subtema_id": "5.2.2", "titulo": "Remediación Automática" }
+          ]
+        }
+      ]
+    },
+    {
+      "modulo_id": 6,
+      "titulo": "Contenedores (Docker)",
+      "temas": [
+        {
+          "tema_id": "6.1",
+          "titulo": "Docker Internals",
+          "subtemas": [
+            { "subtema_id": "6.1.1", "titulo": "Namespaces y Cgroups" },
+            { "subtema_id": "6.1.2", "titulo": "Union File System" }
+          ]
+        },
+        {
+          "tema_id": "6.2",
+          "titulo": "Best Practices",
+          "subtemas": [
+            { "subtema_id": "6.2.1", "titulo": "Multi-stage Builds" },
+            { "subtema_id": "6.2.2", "titulo": "Gestión de Secretos en Build" }
+          ]
+        }
+      ]
+    },
+    {
+      "modulo_id": 7,
+      "titulo": "Orquestación (Kubernetes)",
+      "temas": [
+        {
+          "tema_id": "7.1",
+          "titulo": "Arquitectura K8s",
+          "subtemas": [
+            { "subtema_id": "7.1.1", "titulo": "Control Plane vs Worker Nodes" },
+            { "subtema_id": "7.1.2", "titulo": "Objetos Básicos" }
+          ]
+        },
+        {
+          "tema_id": "7.2",
+          "titulo": "Operación Avanzada",
+          "subtemas": [
+            { "subtema_id": "7.2.1", "titulo": "Helm Charts" },
+            { "subtema_id": "7.2.2", "titulo": "Autoscaling" }
+          ]
+        }
+      ]
+    },
+    {
+      "modulo_id": 8,
+      "titulo": "Observabilidad (O11y)",
+      "temas": [
+        {
+          "tema_id": "8.1",
+          "titulo": "Los 3 Pilares",
+          "subtemas": [
+            { "subtema_id": "8.1.1", "titulo": "Métricas (Prometheus)" },
+            { "subtema_id": "8.1.2", "titulo": "Logs Estructurados" }
+          ]
+        },
+        {
+          "tema_id": "8.2",
+          "titulo": "Tracing y Visualización",
+          "subtemas": [
+            { "subtema_id": "8.2.1", "titulo": "Distributed Tracing" },
+            { "subtema_id": "8.2.2", "titulo": "Dashboards en Grafana" }
+          ]
+        }
+      ]
+    },
+    {
+      "modulo_id": 9,
+      "titulo": "Seguridad (DevSecOps)",
+      "temas": [
+        {
+          "tema_id": "9.1",
+          "titulo": "Shift-Left Security",
+          "subtemas": [
+            { "subtema_id": "9.1.1", "titulo": "SAST y DAST en CI" },
+            { "subtema_id": "9.1.2", "titulo": "Software Bill of Materials (SBOM)" }
+          ]
+        },
+        {
+          "tema_id": "9.2",
+          "titulo": "Seguridad en Runtime",
+          "subtemas": [
+            { "subtema_id": "9.2.1", "titulo": "Seguridad en Contenedores" },
+            { "subtema_id": "9.2.2", "titulo": "Políticas de Red" }
+          ]
+        }
+      ]
+    },
+    {
+      "modulo_id": 10,
+      "titulo": "Cloud (AWS/Azure/GCP)",
+      "temas": [
+        {
+          "tema_id": "10.1",
+          "titulo": "Fundamentos Cloud",
+          "subtemas": [
+            { "subtema_id": "10.1.1", "titulo": "IAM e Identidad" },
+            { "subtema_id": "10.1.2", "titulo": "Networking" }
+          ]
+        },
+        {
+          "tema_id": "10.2",
+          "titulo": "Servicios Administrados y Costos",
+          "subtemas": [
+            { "subtema_id": "10.2.1", "titulo": "Servicios PaaS" },
+            { "subtema_id": "10.2.2", "titulo": "FinOps Básico" }
+          ]
+        }
+      ]
+    },
+    {
+      "modulo_id": 11,
+      "titulo": "SRE y Confiabilidad",
+      "temas": [
+        {
+          "tema_id": "11.1",
+          "titulo": "Midiendo Confiabilidad",
+          "subtemas": [
+            { "subtema_id": "11.1.1", "titulo": "SLIs, SLOs y SLAs" },
+            { "subtema_id": "11.1.2", "titulo": "Error Budgets" }
+          ]
+        },
+        {
+          "tema_id": "11.2",
+          "titulo": "Gestión de Incidentes",
+          "subtemas": [
+            { "subtema_id": "11.2.1", "titulo": "Respuesta a Incidentes" },
+            { "subtema_id": "11.2.2", "titulo": "Postmortems Blameless" }
+          ]
+        }
+      ]
+    },
+    {
+      "modulo_id": 12,
+      "titulo": "Proyecto Final Integrado",
+      "temas": [
+        {
+          "tema_id": "12.1",
+          "titulo": "Construcción",
+          "subtemas": [
+            { "subtema_id": "12.1.1", "titulo": "Arquitectura e Implementación" }
+          ]
+        },
+        {
+          "tema_id": "12.2",
+          "titulo": "Operación",
+          "subtemas": [
+            { "subtema_id": "12.2.1", "titulo": "Simulación de Incidentes" }
+          ]
+        }
+      ]
+    }
+  ]
+}
