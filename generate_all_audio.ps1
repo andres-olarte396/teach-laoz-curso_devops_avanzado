@@ -68,8 +68,8 @@ Write-Host "Total de archivos a generar: 42`n" -ForegroundColor Yellow
 $totalFiles = 0
 $successFiles = 0
 
-# MÓDULO 1: Introducción a DevOps (4 subtemas)
-Write-Host "`n=== MÓDULO 1: Introducción a DevOps ===" -ForegroundColor Green
+# MÓDULO 1. Introducción a DevOps (4 subtemas)
+Write-Host "`n=== MÓDULO 1. Introducción a DevOps ===" -ForegroundColor Green
 
 Generate-Audio -GuionPath ".\modulos\modulo_1\tema_1.1_subtema_1.1.1_guion.md" -OutputPath "$mediaDir\modulo_1_tema_1.1_subtema_1.1.1.wav"
 $totalFiles++; $successFiles++
@@ -218,8 +218,8 @@ $totalFiles++; $successFiles++
 Generate-Audio -GuionPath ".\modulos\modulo_10\tema_10.2_subtema_10.2.2_guion.md" -OutputPath "$mediaDir\modulo_10_tema_10.2_subtema_10.2.2.wav"
 $totalFiles++; $successFiles++
 
-# MÓDULO 11: SRE (4 subtemas)
-Write-Host "`n=== MÓDULO 11: Site Reliability Engineering ===" -ForegroundColor Green
+# MÓDULO 11. SRE (4 subtemas)
+Write-Host "`n=== MÓDULO 11. Site Reliability Engineering ===" -ForegroundColor Green
 
 Generate-Audio -GuionPath ".\modulos\modulo_11\tema_11.1_subtema_11.1.1_guion.md" -OutputPath "$mediaDir\modulo_11_tema_11.1_subtema_11.1.1.wav"
 $totalFiles++; $successFiles++

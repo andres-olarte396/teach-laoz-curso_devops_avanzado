@@ -1,6 +1,6 @@
 # MÓD 10
 ## TEMA 10.2: COST OPTIMIZATION
-### SUBTEMA 10.2.1: FINOPS Y TAGGING
+### SUBTEMA 10.2.1. FINOPS Y TAGGING
 
 FinOps = gestión financiera de cloud. Sin control, cloud bill explota.
 

@@ -1,5 +1,5 @@
 # MÓD 12: PROYECTO FINAL
-## TEMA 12.1: IMPLEMENTACIÓN
+## TEMA 12.1. IMPLEMENTACIÓN
 ### SUBTEMA 12.1.2: IMPLEMENTACIÓN Y PRESENTACIÓN
 
 Ejecuta el proyecto, documenta decisiones, presenta resultados.

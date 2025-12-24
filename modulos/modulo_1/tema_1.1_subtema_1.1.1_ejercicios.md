@@ -1,7 +1,7 @@
 # BANCO DE EJERCICIOS: MÓDULO 1 - SUBTEMA 1.1.1
 ## HISTORIA Y "THE WALL OF CONFUSION"
 
-### EJERCICIO 1: Diagnóstico de Silos
+### EJERCICIO 1. Diagnóstico de Silos
 **Dificultad**: ⭐ Básico
 **Tipo**: Análisis de Caso
 **Objetivo**: Identificar síntomas del "Muro de la Confusión".

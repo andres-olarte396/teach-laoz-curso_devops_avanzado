@@ -1,6 +1,6 @@
 # MÓD 8: OBSERVABILIDAD (O11Y)
-## TEMA 8.1: LOS 3 PILARES
-### SUBTEMA 8.1.1: MÉTRICAS (PROMETHEUS)
+## TEMA 8.1. LOS 3 PILARES
+### SUBTEMA 8.1.1. MÉTRICAS (PROMETHEUS)
 
 Observabilidad = responder "¿POR QUÉ está fallando?" no solo "¿Está fallando?". Los 3 pilares: Métricas, Logs, Trazas.
 

@@ -14,7 +14,7 @@ Si reconoces a tu empresa en alguna de estas historias... corre. O mejor, arrég
 
 ### 00:30 - EL SILO DEVOPS
 **[LOCUTOR]**:
-Anti-patrón número 1: El Silo DevOps.
+Anti-patrón número 1. El Silo DevOps.
 La empresa dice: "Tenemos un problema entre el equipo Dev y el equipo Ops. ¡Ya sé! Vamos a crear un equipo DevOps en el medio".
 Ahora Dev le habla a DevOps, y DevOps le habla a Ops.
 Felicidades, has convertido un problema de comunicación en un juego de teléfono roto.

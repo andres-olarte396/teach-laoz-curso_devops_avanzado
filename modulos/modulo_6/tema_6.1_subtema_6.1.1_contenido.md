@@ -1,6 +1,6 @@
 # MÓDULO 6: CONTENEDORES (DOCKER)
-## TEMA 6.1: DOCKER INTERNALS
-### SUBTEMA 6.1.1: NAMESPACES Y CGROUPS
+## TEMA 6.1. DOCKER INTERNALS
+### SUBTEMA 6.1.1. NAMESPACES Y CGROUPS
 
 Docker no es magia. Son namespaces (aislamiento) + cgroups (límites de recursos) + union filesystem.
 

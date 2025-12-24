@@ -1,6 +1,6 @@
 # MÓD 11
 ## TEMA 11.2: INCIDENT RESPONSE
-### SUBTEMA 11.2.1: POST-MORTEMS BLAMELESS
+### SUBTEMA 11.2.1. POST-MORTEMS BLAMELESS
 
 Post-mortem = análisis después del incidente. Blameless = sin culpar personas.
 

@@ -1,5 +1,5 @@
 # MÓD 9: DEVSECOPS
-## TEMA 9.1: SHIFT-LEFT
+## TEMA 9.1. SHIFT-LEFT
 ### SUBTEMA 9.1.2: SOFTWARE BILL OF MATERIALS (SBOM)
 
 SBOM = lista de ingredientes del software. Qué librerías usas y sus versiones.

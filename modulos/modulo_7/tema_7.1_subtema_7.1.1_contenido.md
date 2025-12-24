@@ -1,6 +1,6 @@
 # MÓDULO 7: ORQUESTACIÓN (KUBERNETES)
-## TEMA 7.1: ARQUITECTURA K8S  
-### SUBTEMA 7.1.1: CONTROL PLANE VS WORKER NODES
+## TEMA 7.1. ARQUITECTURA K8S  
+### SUBTEMA 7.1.1. CONTROL PLANE VS WORKER NODES
 
 Kubernetes = orquestador de containers. Control Plane gestiona, Workers ejecutan.
 

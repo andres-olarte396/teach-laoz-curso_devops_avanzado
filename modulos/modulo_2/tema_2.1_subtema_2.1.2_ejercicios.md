@@ -1,7 +1,7 @@
 # BANCO DE EJERCICIOS: MÓDULO 2 - SUBTEMA 2.1.2
 ## MONOREPOS VS POLYREPOS
 
-### EJERCICIO 1: Diagnóstico
+### EJERCICIO 1. Diagnóstico
 **Dificultad**: ⭐⭐ Intermedio
 **Objetivo**: Identificar señales de que estás usando la arquitectura incorrecta.
 

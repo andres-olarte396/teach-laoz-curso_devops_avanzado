@@ -1,5 +1,5 @@
 # MÓDULO 4: IaC
-## TEMA 4.1: FUNDAMENTOS
+## TEMA 4.1. FUNDAMENTOS
 ### SUBTEMA 4.1.2: GESTIÓN DEL ESTADO
 
 El State file es el cerebro de Terraform. Mapea tu código a la realidad de la nube.

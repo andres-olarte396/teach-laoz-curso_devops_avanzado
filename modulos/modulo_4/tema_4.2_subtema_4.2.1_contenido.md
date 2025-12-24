@@ -1,6 +1,6 @@
 # MÓDULO 4: IaC
 ## TEMA 4.2: MODULARIDAD Y ENTORNOS
-### SUBTEMA 4.2.1: MÓDULOS REUTILIZABLES
+### SUBTEMA 4.2.1. MÓDULOS REUTILIZABLES
 
 DRY (Don't Repeat Yourself) aplica a infraestructura. Los módulos encapsulan lógica reutilizable.
 

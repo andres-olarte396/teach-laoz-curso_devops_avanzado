@@ -1,6 +1,6 @@
 # MÓD 7: K8S
 ## TEMA 7.2: OPERACIÓN AVANZADA
-### SUBTEMA 7.2.1: HELM CHARTS
+### SUBTEMA 7.2.1. HELM CHARTS
 
 Helm = gestor de paquetes para K8s. Templates + values = manifests.
 

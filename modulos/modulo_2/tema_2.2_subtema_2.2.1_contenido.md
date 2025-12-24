@@ -1,6 +1,6 @@
 # MÓDULO 2: CONTROL DE VERSIONES AVANZADO
 ## TEMA 2.2: AUTOMATIZACIÓN EN GIT
-### SUBTEMA 2.2.1: GIT HOOKS
+### SUBTEMA 2.2.1. GIT HOOKS
 
 **Tiempo estimado**: 45 minutos
 **Nivel**: Intermedio

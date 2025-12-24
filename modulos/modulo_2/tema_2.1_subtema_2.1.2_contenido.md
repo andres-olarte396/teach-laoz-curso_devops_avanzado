@@ -1,5 +1,5 @@
 # MÓDULO 2: CONTROL DE VERSIONES AVANZADO
-## TEMA 2.1: ESTRATEGIAS DE RAMIFICACIÓN
+## TEMA 2.1. ESTRATEGIAS DE RAMIFICACIÓN
 ### SUBTEMA 2.1.2: MONOREPOS VS POLYREPOS
 
 **Tiempo estimado**: 60 minutos
@@ -96,4 +96,4 @@ Tener 10 repos que SIEMPRE se despliegan juntos.
 **Monorepo**: Maximiza la colaboración y consistencia a costa de complejidad en tooling.
 **Polyrepo**: Maximiza la autonomía y aislamiento a costa de duplicación y sincronización.
 
-**Siguiente paso**: Ahora que organizaste tus repos, automatiza validaciones en **Subtema 2.2.1: Git Hooks**.
+**Siguiente paso**: Ahora que organizaste tus repos, automatiza validaciones en **Subtema 2.2.1. Git Hooks**.

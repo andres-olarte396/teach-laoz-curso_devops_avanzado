@@ -1,6 +1,6 @@
-# MÓD 11: SRE (SITE RELIABILITY ENGINEERING)
-## TEMA 11.1: SLI/SLO/SLA
-### SUBTEMA 11.1.1: ERROR BUDGETS
+# MÓD 11. SRE (SITE RELIABILITY ENGINEERING)
+## TEMA 11.1. SLI/SLO/SLA
+### SUBTEMA 11.1.1. ERROR BUDGETS
 
 SRE = DevOps con métricas cuantificables. Error Budget = cuánto puedes fallar sin romper promesas.
 

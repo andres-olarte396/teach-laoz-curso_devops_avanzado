@@ -1,6 +1,6 @@
 # MÓDULO 4: INFRAESTRUCTURA COMO CÓDIGO (IaC)
-## TEMA 4.1: FUNDAMENTOS DE IAC
-### SUBTEMA 4.1.1: TERRAFORM VS PULUMI
+## TEMA 4.1. FUNDAMENTOS DE IAC
+### SUBTEMA 4.1.1. TERRAFORM VS PULUMI
 
 IaC = Infraestructura definida en código. Versionable, reproducible, auditable.
 

@@ -1,6 +1,6 @@
 # MÓD 9: SEGURIDAD (DEVSECOPS)
-## TEMA 9.1: SHIFT-LEFT SECURITY
-### SUBTEMA 9.1.1: SAST Y DAST EN CI
+## TEMA 9.1. SHIFT-LEFT SECURITY
+### SUBTEMA 9.1.1. SAST Y DAST EN CI
 
 Shift-Left = seguridad temprana en CI/CD, no al final.
 

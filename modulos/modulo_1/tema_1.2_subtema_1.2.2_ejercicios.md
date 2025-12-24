@@ -1,7 +1,7 @@
 # BANCO DE EJERCICIOS: MÓDULO 1 - SUBTEMA 1.2.2
 ## ANTI-PATRONES COMUNES
 
-### EJERCICIO 1: Detectando al Héroe
+### EJERCICIO 1. Detectando al Héroe
 **Dificultad**: ⭐ Básico
 **Tipo**: Diagnóstico
 **Objetivo**: Identificar el anti-patrón "The Brent Effect" (referencia a The Phoenix Project).

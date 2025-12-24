@@ -1,6 +1,6 @@
 # MÓD 6: DOCKER
 ## TEMA 6.2: BEST PRACTICES
-### SUBTEMA 6.2.1: MULTI-STAGE BUILDS
+### SUBTEMA 6.2.1. MULTI-STAGE BUILDS
 
 Reduce tamaño de imagen drásticamente. Build en una etapa, ejecuta en otra (sin build tools).
 
@@ -18,7 +18,7 @@ CMD ["npm", "start"]
 
 ## Con multi-stage (BUENO)
 ```dockerfile
-# Stage 1: Build
+# Stage 1. Build
 FROM node:18 AS builder
 WORKDIR /app
 COPY package*.json ./

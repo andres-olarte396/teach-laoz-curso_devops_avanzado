@@ -1,7 +1,7 @@
 # BANCO DE EJERCICIOS: MÓDULO 0 - SUBTEMA 0.1.1
 ## ARQUITECTURA DEL KERNEL Y SHELL
 
-### EJERCICIO 1: Detective de System Calls
+### EJERCICIO 1. Detective de System Calls
 **Dificultad**: ⭐ Básico
 **Tipo**: Análisis
 **Objetivo**: Identificar la interacción programa-kernel.

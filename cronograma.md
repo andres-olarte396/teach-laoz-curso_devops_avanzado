@@ -7,7 +7,7 @@
 
 ## CALENDARIO SEMANAL
 
-### MES 1: INTRODUCCIÓN A DEVOPS
+### MES 1. INTRODUCCIÓN A DEVOPS
 - **Semana 1**: Fundamentos del Movimiento (Historia, Wall of Confusion).
 - **Semana 2**: Principios CALMS y Lean (Teoría aplicada).
 - **Semana 3**: Roles, Responsabilidades y Anti-patrones.
@@ -67,7 +67,7 @@
 - **Semana 39**: Servicios PaaS y FinOps (Control de Costos).
 - **Semana 40**: **Entregable**: Infraestructura en cloud productivo.
 
-### MES 11: SRE Y CONFIABILIDAD
+### MES 11. SRE Y CONFIABILIDAD
 - **Semana 41**: Midiendo Confiabilidad (SLIs, SLOs, SLAs).
 - **Semana 42**: Error Budgets y Gestión de Riesgo.
 - **Semana 43**: Gestión de Incidentes y Postmortems Blameless.

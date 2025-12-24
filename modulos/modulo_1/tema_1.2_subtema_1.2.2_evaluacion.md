@@ -3,7 +3,7 @@
 ## Instrucciones
 Responde para validar tu capacidad de detectar malas prácticas DevOps.
 
-### Pregunta 1: El peligro del "Héroe"
+### Pregunta 1. El peligro del "Héroe"
 ¿Por qué tener a un "Héroe" que resuelve todos los problemas técnicos es considerado un anti-patrón en DevOps?
 - a) Porque cobra muchas horas extra.
 - b) Porque representa un punto único de fallo (SPOF) y un cuello de botella para el conocimiento del equipo.

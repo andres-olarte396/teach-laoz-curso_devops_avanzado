@@ -3,7 +3,7 @@
 ## Instrucciones
 Responde para validar tu comprensión sobre los roles en un entorno DevOps.
 
-### Pregunta 1: El objetivo del Ingeniero de Plataforma
+### Pregunta 1. El objetivo del Ingeniero de Plataforma
 ¿Cuál es la misión principal de un Platform Engineer en un entorno DevOps maduro?
 - a) Desplegar manualmente cada cambio de los desarrolladores para asegurar calidad.
 - b) Construir una plataforma de auto-servicio (IDP) que permita a los desarrolladores ser autónomos.

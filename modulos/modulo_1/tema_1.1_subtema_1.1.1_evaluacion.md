@@ -3,7 +3,7 @@
 ## Instrucciones
 Responde para validar tu comprensión de los fundamentos culturales de DevOps.
 
-### Pregunta 1: El conflicto central
+### Pregunta 1. El conflicto central
 ¿Cuál es la causa raíz del "Muro de la Confusión"?
 - a) Que los desarrolladores usan Mac y los SysAdmins usan Linux.
 - b) Que los desarrolladores son incentivados por el cambio (velocidad) y Operaciones por la estabilidad (uptime).

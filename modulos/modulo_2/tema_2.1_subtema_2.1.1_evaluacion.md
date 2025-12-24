@@ -3,7 +3,7 @@
 ## Instrucciones
 Responde para validar tu comprensión de estrategias de ramificación.
 
-### Pregunta 1: Frecuencia de Integración
+### Pregunta 1. Frecuencia de Integración
 En Trunk-Based Development, ¿cuál es la vida máxima recomendada de una rama feature?
 - a) 1 semana
 - b) 1 día (24 horas)

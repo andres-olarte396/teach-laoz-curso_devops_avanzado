@@ -1,6 +1,6 @@
 # MÓDULO 3: CI/CD FUNDAMENTOS
 ## TEMA 3.2: ENTREGA CONTINUA
-### SUBTEMA 3.2.1: ARTEFACTOS REPRODUCIBLES
+### SUBTEMA 3.2.1. ARTEFACTOS REPRODUCIBLES
 
 Build Once, Deploy Everywhere. Si compilas en cada ambiente (dev, staging, prod), introduces variabilidad. Un artefacto inmutable (Docker image, .jar, .zip) garantiza que lo que probaste es EXACTAMENTE lo que se despliega.
 

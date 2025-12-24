@@ -1,7 +1,7 @@
 # BANCO DE EJERCICIOS: MÓDULO 1 - SUBTEMA 1.1.2
 ## PRINCIPIOS CALMS Y LEAN
 
-### EJERCICIO 1: Auditoría CALMS
+### EJERCICIO 1. Auditoría CALMS
 **Dificultad**: ⭐ Básico
 **Tipo**: Clasificación
 **Objetivo**: Identificar qué pilar de CALMS se está violando.

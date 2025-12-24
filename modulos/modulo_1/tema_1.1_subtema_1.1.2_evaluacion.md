@@ -3,7 +3,7 @@
 ## Instrucciones
 Responde para validar tu comprensión del marco de trabajo CALMS.
 
-### Pregunta 1: El significado de Lean
+### Pregunta 1. El significado de Lean
 En el contexto de DevOps, ¿qué significa aplicar principios "Lean"?
 - a) Despedir personal para reducir costos.
 - b) Reducir el tamaño de los lotes de trabajo (batch size) y eliminar desperdicios en el flujo de valor.

@@ -1,7 +1,7 @@
 # BANCO DE EJERCICIOS: MÓDULO 2 - SUBTEMA 2.1.1
 ## GITFLOW VS TRUNK-BASED
 
-### EJERCICIO 1: Análisis de Contexto
+### EJERCICIO 1. Análisis de Contexto
 **Dificultad**: ⭐⭐ Intermedio
 **Tipo**: Decisión Estratégica
 **Objetivo**: Elegir la estrategia correcta según el contexto.
@@ -31,7 +31,7 @@ Estás desarrollando un nuevo sistema de notificaciones que tomará 10 días. Us
 
 **Solución**:
 ```javascript
-// Día 1: Infraestructura básica (apagada)
+// Día 1. Infraestructura básica (apagada)
 if (flags.isEnabled('new-notifications')) {
     loadNewNotificationService();
 } else {

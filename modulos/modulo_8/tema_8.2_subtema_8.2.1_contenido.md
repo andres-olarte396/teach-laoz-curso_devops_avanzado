@@ -1,6 +1,6 @@
 # MÓD 8
 ## TEMA 8.2: TRACING Y VISUALIZACIÓN
-### SUBTEMA 8.2.1: DISTRIBUTED TRACING (OPENTELEMETRY)
+### SUBTEMA 8.2.1. DISTRIBUTED TRACING (OPENTELEMETRY)
 
 En microservicios, 1 request toca 5+ servicios. Tracing reconstruye el path completo.
 

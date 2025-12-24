@@ -3,7 +3,7 @@
 ## Instrucciones
 Responde para validar tu comprensión del ecosistema Linux.
 
-### Pregunta 1: El Jefe de Cocina
+### Pregunta 1. El Jefe de Cocina
 Si el Kernel es el Jefe de Cocina y el Shell es el Camarero, ¿qué representa una "System Call" (Llamada al Sistema)?
 - a) El menú que lee el cliente.
 - b) La nota escrita que el camarero pasa a la cocina.

@@ -5,9 +5,9 @@ Este documento contiene diagramas técnicos en formato Mermaid que pueden ser em
 
 ---
 
-## Módulo 1: DevOps Intro
+## Módulo 1. DevOps Intro
 
-### 1.1.1: Wall of Confusion
+### 1.1.1. Wall of Confusion
 
 ```mermaid
 graph LR
@@ -66,7 +66,7 @@ graph TB
 
 ## Módulo 2: Git Advanced
 
-### 2.1.1: GitFlow vs Trunk-Based
+### 2.1.1. GitFlow vs Trunk-Based
 
 ```mermaid
 gitGraph
@@ -133,7 +133,7 @@ graph TB
 
 ## Módulo 3: CI/CD
 
-### 3.1.1: Pipeline Declarativo
+### 3.1.1. Pipeline Declarativo
 
 ```mermaid
 flowchart LR
@@ -203,7 +203,7 @@ graph TB
         L4["Layer 4: CMD"]
         L3["Layer 3: COPY app"]
         L2["Layer 2: RUN install"]
-        L1["Layer 1: FROM ubuntu"]
+        L1["Layer 1. FROM ubuntu"]
     end
     
     C1W --> L4
@@ -221,7 +221,7 @@ graph TB
 
 ## Módulo 7: Kubernetes
 
-### 7.1.1: K8s Architecture
+### 7.1.1. K8s Architecture
 
 ```mermaid
 graph TB
@@ -283,7 +283,7 @@ graph LR
 
 ## Módulo 8: Observability
 
-### 8.1: The 3 Pillars
+### 8.1. The 3 Pillars
 
 ```mermaid
 graph TB
@@ -303,7 +303,7 @@ graph TB
     style D fill:#F3E5F5
 ```
 
-### 8.2.1: Distributed Tracing
+### 8.2.1. Distributed Tracing
 
 ```mermaid
 sequenceDiagram
@@ -335,14 +335,14 @@ sequenceDiagram
 
 ---
 
-## Módulo 11: SRE
+## Módulo 11. SRE
 
-### 11.1.1: Error Budget
+### 11.1.1. Error Budget
 
 ```mermaid
 graph LR
     SLO["SLO: 99.9% Uptime"] --> EB["Error Budget:<br/>43.2 min/month"]
-    EB --> I1["Incident 1: 20 min"]
+    EB --> I1["Incident 1. 20 min"]
     EB --> I2["Incident 2: 15 min"]
     EB --> R["Remaining: 8.2 min"]
     

@@ -12,7 +12,7 @@ Grafana = visualización universal. Conecta a Prometheus, Loki, Jaeger.
 
 ## Dashboard operativo típico
 ```
-Row 1: Golden Signals
+Row 1. Golden Signals
   - Requests/sec
   - Error rate %
   - P99 latency

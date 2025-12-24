@@ -1,6 +1,6 @@
 # MÓD 5
 ## TEMA 5.2: DRIFT Y REMEDIACIÓN
-### SUBTEMA 5.2.1: DETECCIÓN DE DRIFT
+### SUBTEMA 5.2.1. DETECCIÓN DE DRIFT
 
 Configuration Drift = cambio manual no autorizado en servidor.
 

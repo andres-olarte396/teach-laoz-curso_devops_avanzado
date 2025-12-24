@@ -1,7 +1,7 @@
 # BANCO DE EJERCICIOS: MÓDULO 1 - SUBTEMA 1.2.1
 ## ROLES Y RESPONSABILIDADES
 
-### EJERCICIO 1: Decodificando Ofertas de Trabajo
+### EJERCICIO 1. Decodificando Ofertas de Trabajo
 **Dificultad**: ⭐ Básico
 **Tipo**: Análisis Crítico
 **Objetivo**: Identificar Red Flags en descripciones de puesto.

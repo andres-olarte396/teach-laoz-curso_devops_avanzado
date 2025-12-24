@@ -1,12 +1,12 @@
 # MÓD 6: DOCKER
-## TEMA 6.1: INTERNALS  
+## TEMA 6.1. INTERNALS  
 ### SUBTEMA 6.1.2: UNION FILE SYSTEM
 
 Las imágenes Docker son capas. Copy-on-Write permite compartir datos y ahorrar espacio.
 
 ## Layers
 ```dockerfile
-FROM ubuntu:20.04        # Layer 1: Base OS
+FROM ubuntu:20.04        # Layer 1. Base OS
 RUN apt update           # Layer 2: Package metadata
 RUN apt install -y nginx # Layer 3: Nginx binaries
 COPY app /app            # Layer 4: Tu código

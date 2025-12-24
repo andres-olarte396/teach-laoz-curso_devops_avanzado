@@ -1,6 +1,6 @@
 # MÓD 9
 ## TEMA 9.2: SEGURIDAD EN RUNTIME
-### SUBTEMA 9.2.1: SEGURIDAD EN CONTENEDORES
+### SUBTEMA 9.2.1. SEGURIDAD EN CONTENEDORES
 
 Containers no son VMs. Comparten kernel. Necesitan hardening.
 

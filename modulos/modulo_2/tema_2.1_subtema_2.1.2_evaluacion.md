@@ -1,6 +1,6 @@
 # CUESTIONARIO: MONOREPOS VS POLYREPOS
 
-### Pregunta 1: Señal de Monorepo
+### Pregunta 1. Señal de Monorepo
 ¿Cuál es la señal más clara de que deberías usar un monorepo en lugar de polyrepo?
 - a) Tienes más de 5 desarrolladores.
 - b) Frecuentemente necesitas hacer cambios atómicos que afectan múltiples servicios.

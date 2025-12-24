@@ -16,10 +16,10 @@
 
 ## ESTRUCTURA MODULAR (12 MESES)
 
-### MÓDULO 1: INTRODUCCIÓN A DEVOPS (CULTURA Y CONCEPTOS)
+### MÓDULO 1. INTRODUCCIÓN A DEVOPS (CULTURA Y CONCEPTOS)
 **Entregable**: Análisis crítico de un pipeline real.
 
-#### TEMA 1.1: Fundamentos del Movimiento
+#### TEMA 1.1. Fundamentos del Movimiento
 - **Subtema 1.1.1**: Historia y "The Wall of Confusion"
   - Objetivo: Entender el conflicto Dev vs Ops.
 - **Subtema 1.1.2**: Principios CALMS y Lean
@@ -36,7 +36,7 @@
 ### MÓDULO 2: CONTROL DE VERSIONES AVANZADO (GIT)
 **Entregable**: Migración a Trunk-Based Development.
 
-#### TEMA 2.1: Estrategias de Ramificación
+#### TEMA 2.1. Estrategias de Ramificación
 - **Subtema 2.1.1**: GitFlow vs Trunk-Based
   - Objetivo: Comparar flujos y elegir según contexto.
 - **Subtema 2.1.2**: Monorepos vs Polyrepos
@@ -53,7 +53,7 @@
 ### MÓDULO 3: CI/CD FUNDAMENTOS
 **Entregable**: Pipeline CI con pruebas y análisis estático.
 
-#### TEMA 3.1: Integración Continua (CI)
+#### TEMA 3.1. Integración Continua (CI)
 - **Subtema 3.1.1**: Pipelines Declarativos
   - Objetivo: Definir pipelines como código (YAML).
 - **Subtema 3.1.2**: Análisis Estático y Linters
@@ -70,7 +70,7 @@
 ### MÓDULO 4: INFRAESTRUCTURA COMO CÓDIGO (IaC)
 **Entregable**: Infraestructura replicable en Staging/Prod.
 
-#### TEMA 4.1: Fundamentos de IaC
+#### TEMA 4.1. Fundamentos de IaC
 - **Subtema 4.1.1**: Terraform vs Pulumi
   - Objetivo: Evaluar herramientas declarativas vs imperativas.
 - **Subtema 4.1.2**: Gestión del Estado (State)
@@ -87,7 +87,7 @@
 ### MÓDULO 5: CONFIGURACIÓN Y AUTOMATIZACIÓN
 **Entregable**: Automatización completa del provisionamiento.
 
-#### TEMA 5.1: Gestión de Configuración
+#### TEMA 5.1. Gestión de Configuración
 - **Subtema 5.1.1**: Ansible: Inventarios y Playbooks
   - Objetivo: Configurar servidores sin agentes.
 - **Subtema 5.1.2**: Idempotencia
@@ -104,7 +104,7 @@
 ### MÓDULO 6: CONTENEDORES (DOCKER)
 **Entregable**: Imagen optimizada y segura.
 
-#### TEMA 6.1: Docker Internals
+#### TEMA 6.1. Docker Internals
 - **Subtema 6.1.1**: Namespaces y Cgroups
   - Objetivo: Comprender el aislamiento a bajo nivel.
 - **Subtema 6.1.2**: Union File System
@@ -121,7 +121,7 @@
 ### MÓDULO 7: ORQUESTACIÓN (KUBERNETES)
 **Entregable**: App desplegada con Helm y Autoscaling.
 
-#### TEMA 7.1: Arquitectura K8s
+#### TEMA 7.1. Arquitectura K8s
 - **Subtema 7.1.1**: Control Plane vs Worker Nodes
   - Objetivo: Entender componentes (API Server, Etcd, Kubelet).
 - **Subtema 7.1.2**: Objetos Básicos (Pod, Service, Ingress)
@@ -138,7 +138,7 @@
 ### MÓDULO 8: OBSERVABILIDAD (O11Y)
 **Entregable**: Dashboard operativo + alertas.
 
-#### TEMA 8.1: Los 3 Pilares
+#### TEMA 8.1. Los 3 Pilares
 - **Subtema 8.1.1**: Métricas (Prometheus)
   - Objetivo: Instrumentar código (RED Method).
 - **Subtema 8.1.2**: Logs Estructurados
@@ -155,7 +155,7 @@
 ### MÓDULO 9: SEGURIDAD (DEVSECOPS)
 **Entregable**: Pipeline con controles de seguridad.
 
-#### TEMA 9.1: Shift-Left Security
+#### TEMA 9.1. Shift-Left Security
 - **Subtema 9.1.1**: SAST y DAST en CI
   - Objetivo: Encontrar vulnerabilidades temprano.
 - **Subtema 9.1.2**: Software Bill of Materials (SBOM)
@@ -172,7 +172,7 @@
 ### MÓDULO 10: CLOUD (AWS/AZURE/GCP)
 **Entregable**: Infraestructura en cloud productivo.
 
-#### TEMA 10.1: Fundamentos Cloud
+#### TEMA 10.1. Fundamentos Cloud
 - **Subtema 10.1.1**: IAM e Identidad
   - Objetivo: Gestionar permisos (Least Privilege).
 - **Subtema 10.1.2**: Networking (VPC, Subnets)
@@ -186,10 +186,10 @@
 
 ---
 
-### MÓDULO 11: SRE Y CONFIABILIDAD
+### MÓDULO 11. SRE Y CONFIABILIDAD
 **Entregable**: Diseño de SLOs + Simulación.
 
-#### TEMA 11.1: Midiendo Confiabilidad
+#### TEMA 11.1. Midiendo Confiabilidad
 - **Subtema 11.1.1**: SLIs, SLOs y SLAs
   - Objetivo: Definir objetivos de nivel de servicio.
 - **Subtema 11.1.2**: Error Budgets
@@ -206,7 +206,7 @@
 ### MÓDULO 12: PROYECTO FINAL INTEGRADO
 **Entregable**: Proyecto completo simulando operación real.
 
-#### TEMA 12.1: Construcción
+#### TEMA 12.1. Construcción
 - **Subtema 12.1.1**: Arquitectura e Implementación
   - Objetivo: Integrar Git, CI/CD, IaC y K8s.
 

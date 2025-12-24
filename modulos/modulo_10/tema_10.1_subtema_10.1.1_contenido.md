@@ -1,6 +1,6 @@
 # MÓD 10: CLOUD NATIVE
-## TEMA 10.1: MULTI-CLOUD PATTERNS
-### SUBTEMA 10.1.1: AWS VS GCP VS AZURE
+## TEMA 10.1. MULTI-CLOUD PATTERNS
+### SUBTEMA 10.1.1. AWS VS GCP VS AZURE
 
 Comparación de los 3 grandes. Diferentes filosofías, mismo objetivo.
 
