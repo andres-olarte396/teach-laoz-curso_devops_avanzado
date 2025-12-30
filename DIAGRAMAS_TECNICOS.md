@@ -69,22 +69,28 @@ graph TB
 ### 2.1.1. GitFlow vs Trunk-Based
 
 ```mermaid
-gitGraph
-    commit id: "Initial"
-    branch develop
-    checkout develop
-    commit id: "Dev work"
-    branch feature/login
-    checkout feature/login
-    commit id: "Login UI"
-    commit id: "Login Logic"
-    checkout develop
-    merge feature/login
-    branch release/v1.0
-    checkout release/v1.0
-    commit id: "RC1"
-    checkout main
-    merge release/v1.0 tag: "v1.0"
+graph TD
+    subgraph GitFlow
+        GF_main[main]
+        GF_develop[develop]
+        GF_feature[feature/*]
+        GF_release[release/*]
+
+        GF_main --> GF_develop
+        GF_develop --> GF_feature
+        GF_feature --> GF_develop
+        GF_develop --> GF_release
+        GF_release --> GF_main
+        GF_release --> GF_develop
+    end
+
+    subgraph Trunk-Based Development
+        TB_main[main / trunk]
+        TB_feature[short-lived feature]
+
+        TB_main --> TB_feature
+        TB_feature --> TB_main
+    end
 ```
 
 ```mermaid
